@@ -62,5 +62,5 @@ The extracted data is stored in a **CSV file** (`output.csv`) for easy review an
 
 🛠️ Debugging runtime errors and handling edge cases
 
-👩‍💻 Author Sirisha Mudumanchi | Python & Selenium Learner sirishamudumanchi12@gmail.com
+👩‍💻 Author Sirisha Mudumanchi | Java & Selenium Learner sirishamudumanchi12@gmail.com
 
