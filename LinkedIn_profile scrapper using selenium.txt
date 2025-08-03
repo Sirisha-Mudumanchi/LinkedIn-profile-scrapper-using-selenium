@@ -27,7 +27,7 @@ public class LinkedInScraper {
 
             //  Step 2: Enter login credentials
             driver.findElement(By.id("username")).sendKeys("sirishamudumanchi12@gmail.com");               
-             driver.findElement(By.id("password")).sendKeys("Siri@8919735982");         
+             driver.findElement(By.id("password")).sendKeys("Sir@889");         
             driver.findElement(By.xpath("//button[@type='submit']")).click();
 
             // Wait for login to complete
@@ -65,3 +65,4 @@ public class LinkedInScraper {
         }
     }
 }
+
